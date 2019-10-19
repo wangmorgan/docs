@@ -1,0 +1,8 @@
+<keymap version="1" name="Default for Windows copy" parent="$default">
+  <action id="EditorMoveDownAndScroll">
+    <mouse-shortcut keystroke="button143" />
+  </action>
+  <action id="EditorMoveDownAndScrollWithSelection">
+    <mouse-shortcut keystroke="button142" />
+  </action>
+</keymap>
