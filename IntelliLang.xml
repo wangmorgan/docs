@@ -1,0 +1,7 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="GoTemplate" injector-id="python">
+      <display-name>New Python Injection</display-name>
+    </injection>
+  </component>
+</application>
