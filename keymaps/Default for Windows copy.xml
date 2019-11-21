@@ -5,4 +5,8 @@
   <action id="EditorMoveDownAndScrollWithSelection">
     <mouse-shortcut keystroke="button142" />
   </action>
+  <action id="ZoomCurrentWindow">
+    <mouse-shortcut keystroke="control button142" />
+    <mouse-shortcut keystroke="control button143" />
+  </action>
 </keymap>
