@@ -1,9 +1,18 @@
 <keymap version="1" name="Default for Windows copy" parent="$default">
+  <action id="EditorDecreaseFontSize">
+    <keyboard-shortcut first-keystroke="alt caps_lock" />
+  </action>
+  <action id="EditorIncreaseFontSize">
+    <keyboard-shortcut first-keystroke="shift caps_lock" />
+  </action>
   <action id="EditorMoveDownAndScroll">
     <mouse-shortcut keystroke="button143" />
   </action>
   <action id="EditorMoveDownAndScrollWithSelection">
     <mouse-shortcut keystroke="button142" />
+  </action>
+  <action id="JumpToColorsAndFonts">
+    <keyboard-shortcut first-keystroke="ctrl caps_lock" />
   </action>
   <action id="ZoomCurrentWindow">
     <mouse-shortcut keystroke="control button142" />
